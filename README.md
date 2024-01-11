@@ -28,8 +28,7 @@ To run the project locally, follow these steps:
 1. Clone the repository: `git clone <repository-url>`
 2. Navigate to the project directory: `cd react-calculator-app`
 3. Install dependencies: `npm install`
-4. Run the development server: `npm start`
-5. Open your browser and visit `http://localhost:3000` to view the app.
+4. Run the development server: `npm run dev`
 
 ## Dependencies
 
